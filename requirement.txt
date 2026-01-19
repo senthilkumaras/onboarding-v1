@@ -10,3 +10,4 @@ sentence-transformers
 torch
 langsmith
 mlflow
+dotenv
