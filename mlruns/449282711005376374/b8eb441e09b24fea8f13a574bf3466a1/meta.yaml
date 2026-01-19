@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/ai-projects/onboarding-v1/mlruns/449282711005376374/b8eb441e09b24fea8f13a574bf3466a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '449282711005376374'
+lifecycle_stage: active
+run_id: b8eb441e09b24fea8f13a574bf3466a1
+run_name: demo-run-1768804931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768804931324
+status: 1
+tags: []
+user_id: senth

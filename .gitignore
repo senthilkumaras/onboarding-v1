@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.env
+.env.*
+.venv/
+
+# API keys & secrets
+*.key
+*.pem
+
+# Streamlit
+.streamlit/
+
+# RAG artifacts (must never go to GitHub)
+rag_index/
+rag_cache/
+embeddings_cache.pkl
+
+# Vector store junk
+*.faiss
+*.index
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+.env
+.env*
